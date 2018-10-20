@@ -1,24 +1,19 @@
-# 🎰 Week05 Bootcamp2018c Project: Slot Machine
+About Project
+========================================
+I spent so much time on the JS of this project that I never styled it. I'll go back and change that one of these days when I have more time.
 
-### Goal: Build a Simple Slot Machine
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
 
-### How to submit your code for review:
+link to project here: https://confident-almeida-472564.netlify.com/
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+How it was made:
+============================================
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+JavaScript, Html
+
+
+what I've learned
+============================================
+-I used onclick inside the html and I need to not do that because it violates seperation of concerns
+-I need to come up with more effective problem solving strategies
+
